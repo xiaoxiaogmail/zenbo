@@ -1,0 +1,4 @@
+config GPIO_SENSOR
+        tristate "Functions to control sensor gpio state"
+        help
+           Say Y here if you need to control sensor gpio state.
